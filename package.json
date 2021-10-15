@@ -38,6 +38,7 @@
     "react-swipeable-views-core": "^0.14.0",
     "react-swipeable-views-utils": "^0.14.0",
     "react-toastify": "^7.0.4",
+    "sass": "^1.42.1",
     "sequelize": "^6.3.5",
     "validator": "^13.6.0"
   },
